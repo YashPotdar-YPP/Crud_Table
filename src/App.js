@@ -119,13 +119,19 @@ function App() {
                 scope="col"
                 className={`dot_txt ${"hover-ellipsis"} table-dark`}
               >
+                C# with .NET Crud with SQL/NoSQL
+              </th>
+              <th
+                scope="col"
+                className={`dot_txt ${"hover-ellipsis"} table-dark`}
+              >
                 DSA with C
               </th>
               <th
                 scope="col"
                 className={`dot_txt ${"hover-ellipsis"} table-dark`}
               >
-                Oops with C++
+                Oops with C++/Java
               </th>
             </tr>
           </thead>
@@ -145,21 +151,6 @@ function App() {
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
-            </tr>
-            <tr className="text-center">
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">✔</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
               <td scope="col">--</td>
             </tr>
             <tr className="text-center">
@@ -177,17 +168,36 @@ function App() {
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
+              <td scope="col">--</td>
+            </tr>
+            <tr className="text-center">
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
+              <td scope="col">--</td>
             </tr>
             <tr className="text-center">
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
-              <td scope="col">--</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
