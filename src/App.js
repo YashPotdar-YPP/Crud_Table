@@ -136,6 +136,7 @@ function App() {
             </tr>
           </thead>
           <tbody>
+            {/* Padu */}
             <tr className="text-center">
               <td scope="col">✔</td>
               <td scope="col">✔</td>
@@ -144,8 +145,8 @@ function App() {
               <td scope="col">✔</td>
               <td scope="col">✔</td>
               <td scope="col">✔</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
@@ -153,6 +154,7 @@ function App() {
               <td scope="col">--</td>
               <td scope="col">--</td>
             </tr>
+            {/* Sanskar */}
             <tr className="text-center">
               <td scope="col">✔</td>
               <td scope="col">✔</td>
@@ -162,7 +164,7 @@ function App() {
               <td scope="col">✔</td>
               <td scope="col">✔</td>
               <td scope="col">--</td>
-              <td scope="col">--</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
@@ -170,6 +172,7 @@ function App() {
               <td scope="col">--</td>
               <td scope="col">--</td>
             </tr>
+            {/* Yash */}
             <tr className="text-center">
               <td scope="col">✔</td>
               <td scope="col">✔</td>
@@ -179,7 +182,7 @@ function App() {
               <td scope="col">✔</td>
               <td scope="col">✔</td>
               <td scope="col">--</td>
-              <td scope="col">--</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
@@ -187,17 +190,18 @@ function App() {
               <td scope="col">--</td>
               <td scope="col">--</td>
             </tr>
+            {/* Aniket */}
             <tr className="text-center">
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
-              <td scope="col">--</td>
+              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">--</td>
-              <td scope="col">✔</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
               <td scope="col">--</td>
